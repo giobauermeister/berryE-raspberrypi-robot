@@ -1,0 +1,16 @@
+{
+  "name": "web-fpv",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Giovanni Bauermeister",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.15.4",
+    "rpio": "^0.9.17",
+    "socket.io": "^2.0.3"
+  }
+}

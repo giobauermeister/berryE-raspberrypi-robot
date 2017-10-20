@@ -1,0 +1,14 @@
+{
+  "short_name": "Berry-E Robot",
+  "name": "Berry-E Robot",
+  "icons": [
+    {
+      "src": "/images/robot-icon.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    }
+  ],
+  "start_url": "/index.html",
+  "display": "fullscreen",
+  "orientation": "landscape"
+}
